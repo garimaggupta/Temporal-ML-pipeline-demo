@@ -1,6 +1,6 @@
 # ML Pipeline with Temporal Python SDK
 
-A production-ready machine learning pipeline orchestrated using Temporal Python SDK that handles the complete ML workflow from data ingestion to model deployment with fault tolerance, monitoring, and experiment tracking.
+Machine learning pipeline orchestrated using Temporal Python SDK that handles the complete ML workflow from data ingestion to model deployment with fault tolerance, monitoring, and experiment tracking.
 
 ## 🎯 Overview
 
