@@ -79,7 +79,6 @@ To install Poetry run:
 With this repository cloned, run the following at the root of the directory:
 
     $ poetry update
-    $ cd ui; poetry update
 
 That loads all required dependencies. 
 
